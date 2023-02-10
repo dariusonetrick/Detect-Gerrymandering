@@ -2,7 +2,7 @@ Make sure district and eligible voters text files are in the same directory
 
 1. Load files
 
-  'load districts.txt eligible_voters.txt
+  'load districts.txt eligible_voters.txt'
   
 2. Search state
   
